@@ -1,11 +1,11 @@
 # Deep Learning Specialization Coursera 
-[![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20Specialization%20Coursera-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera)
-[![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/)
+[![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20Specialization%20Coursera-blueviolet?logo=github&style=flat-square)](https://github.com/devendra4014/Deep-Learning-Specialization)
+[![Website](https://img.shields.io/badhttps://github.com/devendra4014/Deep-Learning-Specializationhttps://abdur75648.github.io/Deep-Learning-Specialization-Coursera/)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![GitHub stars](https://img.shields.io/github/stars/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Star&maxAge=2592000)
-![GitHub forks](https://img.shields.io/github/forks/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Fork&maxAge=2592000)
 
-[This repo](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera) contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
+
+[This repo](https://github.com/devendra4014/Deep-Learning-Specialization) contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
@@ -13,11 +13,11 @@ Instructor: [Prof. Andrew Ng](www.andrewng.org)
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
 
-  - [W2A1 - Logistic Regression with a Neural Network mindset](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network)
-  - [W2A2 - Python Basics with Numpy](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Python%20Basics%20with%20Numpy)
-  - [W3A1 - Planar data classification with one hidden layer](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week3/Planar%20data%20classification%20with%20one%20hidden%20layer)
-  - [W3A1 - Building your Deep Neural Network: Step by Step¶](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
-  - [W3A2 - Deep Neural Network for Image Classification: Application](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week4/Deep%20Neural%20Network%20Application_%20Image%20Classification)
+  - [W2A1 - Logistic Regression with a Neural Network mindset](https://github.com/devendra4014/Deep-Learning-Specialization/tree/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week2/Logistic%20Regression%20as%20a%20Neural%20Network)
+  - [W2A2 - Python Basics with Numpy](https://github.com/devendra4014/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week2/Python%20Basics%20with%20Numpy)
+  - [W3A1 - Planar data classification with one hidden layer](https://github.com/devendra4014/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week3/Planar%20data%20classification%20with%20one%20hidden%20layer)
+  - [W3A1 - Building your Deep Neural Network: Step by Step¶](https://github.com/devendra4014/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
+  - [W3A2 - Deep Neural Network for Image Classification: Application](https://github.com/devendra4014/Deep-Learning-Specialization/tree/master/Neural%20Networks%20and%20Deep%20Learning/Week4/Deep%20Neural%20Network%20Application_%20Image%20Classification)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 

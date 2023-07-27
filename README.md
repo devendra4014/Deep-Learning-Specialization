@@ -9,11 +9,6 @@
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
-## What's New
-This Specialization was updated in April 2021 to include developments in deep learning and programming frameworks. One of the most major changes was shifting from Tensorflow 1 to Tensorflow 2. Also, new materials were added.
-However, Most of the old online repositories still don't have old codes.
-This repo contains updated versions of the assignments.
-Happy Learning :)
 
 ## Programming Assignments
 - Course 1: Neural Networks and Deep Learning
